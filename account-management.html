@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>계좌 관리</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        max-width: 500px;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+      }
+      h2 {
+        text-align: center;
+      }
+      input,
+      button {
+        width: 100%;
+        padding: 10px;
+        margin: 5px 0;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+      }
+      button {
+        background-color: #4caf50;
+        color: white;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #45a049;
+      }
+      .account-list {
+        margin-top: 20px;
+      }
+      .account {
+        background: #f9f9f9;
+        padding: 10px;
+        margin: 5px 0;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>계좌 관리</h2>
+
+    <h3>계좌 등록</h3>
+    <input type="text" id="accountNumber" placeholder="계좌번호 입력" />
+    <input type="text" id="balance" placeholder="초기 금액 입력" />
+    <button onclick="addAccount()">계좌 추가</button>
+
+    <h3>등록된 계좌</h3>
+    <div class="account-list" id="accountList"></div>
+
+    <script>
+      function addAccount() {
+        const accountNumber = document.getElementById('accountNumber').value;
+        const balance = document.getElementById('balance').value;
+
+        if (!accountNumber || !balance) {
+          alert('계좌번호와 금액을 입력하세요.');
+          return;
+        }
+
+        const accountList = document.getElementById('accountList');
+        const accountDiv = document.createElement('div');
+        accountDiv.classList.add('account');
+        accountDiv.innerHTML = `<strong>계좌번호:</strong> ${accountNumber} | <strong>잔액:</strong> ${balance}원`;
+        accountList.appendChild(accountDiv);
+
+        document.getElementById('accountNumber').value = '';
+        document.getElementById('balance').value = '';
+      }
+    </script>
+  </body>
+</html>
