@@ -100,7 +100,7 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>&nbsp;
     <a href="mailto:dotaeil@naver.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/dotaeil@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </div>
 </div>
