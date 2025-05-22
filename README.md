@@ -16,7 +16,7 @@
              0 0 30px #9B30FF,
              0 0 40px #9B30FF;">
   🙋🏻‍♀️ Profile 🙋🏻‍♀️
-</h1>
+</h3>
 
 <div align="center" 
      style="font-family: 'Press Start 2P', cursive; color: white; 
@@ -24,7 +24,6 @@
               0 0 3px #39FF14,
               0 0 7px #39FF14,
               0 0 10px #9B30FF; margin-bottom: 30px;">
-  네온 그린과 퍼플빛 레트로 감성으로 빛나는 프로필입니다.
 </div>
 
 ---
