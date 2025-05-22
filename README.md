@@ -4,29 +4,7 @@
   <img src="https://fontmeme.com/permalink/250522/9076c645fe54954f35d92a96d019b751.png" alt="glow-effect" border="0" />
 </a>
 
-<!-- 구글 폰트 링크 (GitHub는 직접적 지원 안됨, 로컬폰트 폰트가 깔려 있어야 보임) -->
-<!-- 깃허브에서는 무시될 수 있음 -->
-
-<h1 align="center" 
-    style="font-family: 'Press Start 2P', cursive; color: #39FF14; 
-           text-shadow:
-             0 0 5px #39FF14,
-             0 0 10px #39FF14,
-             0 0 20px #9B30FF,
-             0 0 30px #9B30FF,
-             0 0 40px #9B30FF;">
-  🙋🏻‍♀️ Profile 🙋🏻‍♀️
-</h3>
-
-<div align="center" 
-     style="font-family: 'Press Start 2P', cursive; color: white; 
-            text-shadow:
-              0 0 3px #39FF14,
-              0 0 7px #39FF14,
-              0 0 10px #9B30FF; margin-bottom: 30px;">
-</div>
-
----
+<!-- 내용 부분 (레트로 컨셉 폰트 적용할 수 있는 방법 찾아야됨) -->
 
 <h3 align="center" 
     style="font-family: 'Press Start 2P', cursive; color: #39FF14; 
@@ -38,18 +16,14 @@
 </h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp;
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp;
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
-</div>
-
-<br>
+<br />
 
 <h3 align="center" 
     style="font-family: 'Press Start 2P', cursive; color: #9B30FF; 
@@ -60,33 +34,31 @@
 </h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Java%20기초-007396?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/코딩테스트-FF7F50?style=for-the-badge&logo=leetcode&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Python%20복습-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
 </div>
-
-<br>
+</br>
 
 <h3 align="center" 
     style="font-family: 'Press Start 2P', cursive; color: #39FF14; 
            text-shadow:
              0 0 5px #39FF14,
              0 0 10px #39FF14;">
-  🛠 Tools 🛠
+  🛠️ Tools 🛠️
 </h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />&nbsp;
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Sourcetree" />&nbsp;
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ" />&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />&nbsp;
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />&nbsp;
+  <a href="https://www.notion.so/4e43974e9bba41a78220cfc4d05f649f" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a>
 </div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp;
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
-</div>
-
-<br>
+</br>
 
 <h3 align="center" 
     style="font-family: 'Press Start 2P', cursive; color: #9B30FF; 
